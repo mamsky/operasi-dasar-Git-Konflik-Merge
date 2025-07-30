@@ -1,1 +1,1 @@
-Branch A: Konten awal yang diedit oleh Branch A
+Branch B: Konten berbeda yang diedit oleh Branch B
